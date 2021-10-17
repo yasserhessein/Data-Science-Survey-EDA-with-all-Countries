@@ -27,7 +27,7 @@ Explore Data scientists from all Countries
 [![Here]](https://www.kaggle.com/c/kaggle-survey-2021/data)
 
 
-### link Project 
+### Link Project 
 
 
 [![Here]](https://www.kaggle.com/yasserhessein/data-science-survey-eda-with-all-countries#Autoviz:-Automatically-Visualize)
