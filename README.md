@@ -31,3 +31,7 @@ Explore Data scientists from all Countries
 
 
 [![Here]](https://www.kaggle.com/yasserhessein/data-science-survey-eda-with-all-countries#Autoviz:-Automatically-Visualize)
+
+<img src="https://github.com/Elysian01/Data-Purifier/raw/master/static/demo.gif" width="600px">
+
+
